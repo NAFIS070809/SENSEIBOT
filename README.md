@@ -25,7 +25,7 @@ $ pkg install git
 $ pkg install bash
 $ pkg install nodejs
 $ pkg install update && pkg install upgrade
-$ git clone https://github.com/Arnando456/Rem7
+$ git clone https://github.com/NAFISAZKA/SENSEIBOT
 $ cd SENSEIBOT
 $ ls
 $ bash install.sh
